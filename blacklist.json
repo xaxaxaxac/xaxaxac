@@ -4,18 +4,11 @@
 			"userId": 910597506,
 			"username": "m3_gie",
 			"reason": "Exploiting",
-			"date": "2024-01-15"
+			"date": "2026-03-22"
 		},
-		{
-			"userId": 987654321,
-			"username": "baduser2",
-			"reason": "Toxicity",
-			"date": "2024-01-20"
-		}
-	],
 	"settings": {
 		"enableKick": true,
-		"kickMessage": "You are blacklisted from this game.",
+		"kickMessage": "You are blacklisted from this event.",
 		"updateInterval": 60
 	}
 }
